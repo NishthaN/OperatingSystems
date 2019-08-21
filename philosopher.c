@@ -2,9 +2,7 @@
 //  philosopher.c
 //  
 //
-//  Created by Abhijeet Singh on 11/04/18.
-//  1610110027
-//
+
 
 #include <stdio.h>
 #include <stdlib.h>
